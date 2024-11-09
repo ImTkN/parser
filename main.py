@@ -1,7 +1,8 @@
-import requests
-from bs4 import BeautifulSoup
 import csv
 import time
+
+import requests
+from bs4 import BeautifulSoup
 
 
 # Функция для получения HTML-контента страницы
